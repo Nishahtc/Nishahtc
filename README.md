@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring web develope
 ## 🛠️ Skills:
 - HTML | CSS | JavaScript
 - Bootstrap | Tailwind CSS
-- Git & GitHub
+- Git, VS Code, etc.
 
 ## 📈 Goals:
 - Build real-world projects
